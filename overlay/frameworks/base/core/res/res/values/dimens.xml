@@ -20,4 +20,13 @@
     <dimen name="rounded_corner_radius_bottom">70.0px</dimen>
     <dimen name="rounded_corner_radius_top">70.0px</dimen>
     <dimen name="status_bar_height_portrait">27.5dip</dimen>
+    <dimen name="config_dialogCornerRadius">20.0dip</dimen>
+    <dimen name="control_corner_material">20.0dip</dimen>
+    <dimen name="progress_bar_corner_material">20.0dip</dimen>
+    <dimen name="subtitle_corner_radius">20.0dip</dimen>
+    <dimen name="subtitle_shadow_radius">20.0dip</dimen>
+    <dimen name="dialog_corner_radius">20.0dip</dimen>
+    <dimen name="chooser_corner_radius">20.0dip</dimen>
+    <dimen name="default_magnifier_corner_radius">20.0dip</dimen>
+    <dimen name="tooltip_corner_radius">20.0dip</dimen>
 </resources>
