@@ -43,3 +43,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/xiaomi/olives/olives-vendor.mk)
+
+# Custom OTA
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+    lineage.updater.uri=https://raw.githubusercontent.com/JonnyRoller23/OTAUpdatesROM/master/olives.json
